@@ -1,5 +1,5 @@
 ## Hii!
-## I'm Shah and I'm currently a Computer Science student
+## I'm Shah and I'm currently studying Computer Science
 
 
 Currently studying:
