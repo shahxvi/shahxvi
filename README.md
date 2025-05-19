@@ -1,5 +1,5 @@
 # Hii! I'm Shah >w<
-# Computer Science diploma student at Universiti Teknologi MARA (UiTM)
+### Computer Science diploma student at Universiti Teknologi MARA (UiTM)
 
 
 Currently studying:
