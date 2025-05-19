@@ -1,5 +1,5 @@
-## Hii!
-## I'm Shah and I'm currently studying Computer Science
+# Hii! I'm Shah
+## I'm currently studying Computer Science at Universiti Teknologi MARA (UiTM)h
 
 
 Currently studying:
