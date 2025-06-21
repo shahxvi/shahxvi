@@ -11,6 +11,16 @@ Currently studying:
   <img width="12" />
 </div>
 
+Favourite Code Editor / IDE:
+
+<div align="left">
+  <img src="https://www.vim.org/images/vimlogo.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="40" alt="visual studio code logo"  />
+  <img width="12" />
+</div>
+
+
 Find me on:
 
 <div align="left">
