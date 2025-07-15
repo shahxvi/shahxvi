@@ -18,14 +18,10 @@ Favourite Code Editor / IDE:
   <img width="12" />
 </div>
 
+roadmap.sh:
 
-Find me on:
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/687659667bd19b70d0b23af2?variant=dark&roadmaps=java" alt="roadmap.sh"/></a>
 
-<div align="left">
-  <a href="https://discord.com/users/699194661738119168" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-</div>
 
 ###
 <!--
