@@ -20,6 +20,8 @@ Favourite Code Editor / IDE:
   <img width="12" />
 </div>
 
+![shahxvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahxvi&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
 ###
 <!--
 **shahxvi/shahxvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
