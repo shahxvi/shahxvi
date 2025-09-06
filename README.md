@@ -20,11 +20,6 @@ Favourite Code Editor / IDE:
   <img width="12" />
 </div>
 
-roadmap.sh:
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/687659667bd19b70d0b23af2?variant=dark&roadmaps=java" alt="roadmap.sh"/></a>
-
-
 ###
 <!--
 **shahxvi/shahxvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
