@@ -13,13 +13,6 @@ Currently studying:
   <img width="12" />
 </div>
 
-Favourite Code Editor / IDE:
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/vscode-neovim/vscode-neovim/master/images/icon.png" height="40" alt="vscode-neovim"  />
-  <img width="12" />
-</div>
-
 ---
 
 ![shahxvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahxvi&theme=dracula&show_icons=true&hide_border=false&layout=compact)
